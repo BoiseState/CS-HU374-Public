@@ -8,6 +8,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="/Users/elenasherman/teaching/git/CS-HU374-Public/files/triangle.jar"/>
+	<classpathentry kind="lib" path="files/triangle.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
