@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"a1","c":"MyMatcher","l":"MyMatcher()","url":"%3Cinit%3E()"},{"p":"a1","c":"MyMatcher","l":"regionMatches(boolean, char[], int, char[], int, int)","url":"regionMatches(boolean,char[],int,char[],int,int)"}]
