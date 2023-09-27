@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import week1.w1_code.OptimizedMultiplier;
 
-public class OptimizedMultiplierTestManual {
+public class OptimizedMultiplierManualTest {
 
 	@Test
 	public void tc1() {
