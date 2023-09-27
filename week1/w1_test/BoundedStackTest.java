@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import w1_code.BoundedStack;
+import week1.w1_code.BoundedStack;
 
 public class BoundedStackTest {
 
